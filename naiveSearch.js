@@ -8,4 +8,4 @@ function naiveSearch(long, short) {
 	}
 	return count;
 }
-naiveSearch("lole hole", "hol");
+console.log(naiveSearch("lole hole", "hol"));

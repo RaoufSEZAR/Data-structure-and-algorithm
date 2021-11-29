@@ -6,4 +6,4 @@ function getSecondLargest(nums) {
 
 	return Math.max(...nums);
 }
-getSecondLargest([2, 4, 5, 6, 7]);
+console.log(getSecondLargest([2, 4, 5, 6, 7]));
